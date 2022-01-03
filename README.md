@@ -12,4 +12,4 @@ https://acheronandstyx.github.io/Horiseon_Code_Refactor_Challenge/
 
 ## Refactored Page
 
-![Screenshot of Refactored Page](assets\images\Horiseon_Code_Refactor_Challenge.png)
+![Screenshot of Refactored Page](https://raw.github.com/AcheronandStyx/Horiseon_Code_Refactor_Challenge/main/assets/images/Horiseon_Code_Refactor_Challenge.png)
