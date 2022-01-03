@@ -6,10 +6,10 @@ An excercise in which I refactored HTML and CSS to ensure the following.
 * Images and icons contain descriptive alt attributes to allow for accessibility.
 * CSS is consolidated and organized to follow semantic
 
-
-
 ## Link to Refactored page
 
 https://acheronandstyx.github.io/Horiseon_Code_Refactor_Challenge/
 
-## Mockup
+## Refactored Page
+
+![alt text](assets\images\Horiseon_Code_Refactor_Challenge.png "Screenshot of Refactored Page")
